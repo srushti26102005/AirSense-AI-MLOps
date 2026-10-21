@@ -1,0 +1,17 @@
+target,model,MAE,RMSE,R2,data_type
+target_1h,RandomForestRegressor,6.1832098272823774,7.791123796463727,0.8463453956337654,synthetic
+target_6h,RandomForestRegressor,6.1230175563869675,7.718413253874773,0.8487407189920133,synthetic
+target_24h,RandomForestRegressor,6.267407236322776,7.906391498662109,0.8406655130015421,synthetic
+
+
+
+
+
+
+
+
+
+
+
+
+

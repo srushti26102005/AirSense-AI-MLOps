@@ -1,0 +1,15 @@
+check,issue_count,status
+Total rows,7536,INFO
+Duplicate rows,0,PASS
+Missing timestamps,0,PASS
+Missing station IDs,0,PASS
+Negative PM2.5 readings,0,PASS
+Negative PM10 readings,0,PASS
+Negative NO2 readings,0,PASS
+Invalid relative humidity,0,PASS
+Missing values: PM2.5,0,PASS
+Missing values: PM10,0,PASS
+Missing values: NO2,0,PASS
+Missing values: temperature_2m_c,0,PASS
+Missing values: relative_humidity_2m_pct,0,PASS
+Missing values: wind_speed_10m_ms,0,PASS

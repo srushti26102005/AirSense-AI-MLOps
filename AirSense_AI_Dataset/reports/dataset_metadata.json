@@ -1,0 +1,63 @@
+{
+  "project": "AirSense AI",
+  "dataset_type": "synthetic_demo",
+  "warning": "All observations are synthetic examples, not actual CPCB, XKDR, or Open-Meteo data. Do not claim real-world accuracy from this package.",
+  "primary_target": "PM2.5",
+  "forecast_horizons_hours": [
+    1,
+    6,
+    24
+  ],
+  "pollutant_features": [
+    "PM2.5",
+    "PM10",
+    "NO2",
+    "SO2",
+    "CO",
+    "O3",
+    "NH3"
+  ],
+  "weather_features": [
+    "temperature_2m_c",
+    "relative_humidity_2m_pct",
+    "precipitation_mm",
+    "pressure_msl_hpa",
+    "cloud_cover_pct",
+    "wind_speed_10m_ms",
+    "wind_direction_10m_deg",
+    "wind_gusts_10m_ms"
+  ],
+  "time_features": [
+    "hour",
+    "day_of_week",
+    "day_of_month",
+    "month",
+    "is_weekend",
+    "season"
+  ],
+  "lag_features": [
+    "pm25_lag_1h",
+    "pm25_lag_3h",
+    "pm25_lag_6h",
+    "pm25_lag_12h",
+    "pm25_lag_24h",
+    "pm25_lag_48h"
+  ],
+  "rolling_features": [
+    "pm25_roll_mean_3h",
+    "pm25_roll_mean_6h",
+    "pm25_roll_mean_24h",
+    "pm25_roll_std_24h"
+  ],
+  "targets": [
+    "target_1h",
+    "target_6h",
+    "target_24h"
+  ],
+  "timezone": "Asia/Kolkata",
+  "cities": 8,
+  "stations": 24,
+  "hours_per_station": 2160,
+  "split": "Chronological within each station: 70% train / 15% validation / 15% test",
+  "model_trained": false
+}

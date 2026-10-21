@@ -1,0 +1,25 @@
+timestamp,station_id,station_name,city,state,latitude,longitude,temperature_2m_c,relative_humidity_2m_pct,precipitation_mm,pressure_msl_hpa,cloud_cover_pct,wind_speed_10m_ms,wind_direction_10m_deg,wind_gusts_10m_ms,data_source
+2025-03-31T23:00:00+05:30,DEMO_HYD_03,Bollaram,Hyderabad,Telangana,17.409451,78.483609,27.53,70.05,0.167,1009.55,69.24,6.37,57.4,8.67,synthetic_demo
+2025-03-31T23:00:00+05:30,DEMO_JAI_01,Adarsh Nagar,Jaipur,Rajasthan,26.89909,75.791943,28.76,72.89,0.0,1009.28,58.88,1.71,113.2,2.72,synthetic_demo
+2025-03-31T23:00:00+05:30,DEMO_PUN_01,Katraj Dairy,Pune,Maharashtra,18.526494,73.8359,26.41,67.1,0.0,1011.22,63.3,2.4,67.0,2.62,synthetic_demo
+2025-03-31T23:00:00+05:30,DEMO_PUN_02,Shivajinagar,Pune,Maharashtra,18.535409,73.875511,29.23,69.87,0.0,1009.71,66.2,0.21,59.0,0.35,synthetic_demo
+2025-03-31T23:00:00+05:30,DEMO_PUN_03,Nigdi,Pune,Maharashtra,18.481379,73.830656,29.09,67.53,1.024,1012.37,76.61,0.19,280.0,0.28,synthetic_demo
+2025-03-31T23:00:00+05:30,DEMO_MUM_01,Powai,Mumbai,Maharashtra,19.078557,72.871375,28.9,68.56,0.0,1014.47,63.29,2.81,197.8,3.12,synthetic_demo
+2025-03-31T23:00:00+05:30,DEMO_MUM_02,Kurla,Mumbai,Maharashtra,19.075664,72.860639,28.78,64.24,0.0,1009.02,53.18,2.59,318.7,4.39,synthetic_demo
+2025-03-31T23:00:00+05:30,DEMO_MUM_03,Worli,Mumbai,Maharashtra,19.093588,72.893256,28.79,58.55,0.0,1011.21,61.86,3.14,24.3,3.74,synthetic_demo
+2025-03-31T23:00:00+05:30,DEMO_DEL_01,Anand Vihar,Delhi,Delhi,28.615221,77.231545,28.09,72.21,0.0,1013.24,68.51,2.71,40.8,3.28,synthetic_demo
+2025-03-31T23:00:00+05:30,DEMO_DEL_02,RK Puram,Delhi,Delhi,28.62325,77.191814,28.85,64.04,0.0,1012.11,58.54,3.33,0.3,3.95,synthetic_demo
+2025-03-31T23:00:00+05:30,DEMO_DEL_03,Punjabi Bagh,Delhi,Delhi,28.621275,77.189822,27.21,66.79,0.0,1005.53,53.11,2.7,226.6,3.0,synthetic_demo
+2025-03-31T23:00:00+05:30,DEMO_JAI_02,Mansarovar,Jaipur,Rajasthan,26.914734,75.791674,27.22,74.96,0.0,1009.98,54.29,2.45,101.9,2.91,synthetic_demo
+2025-03-31T23:00:00+05:30,DEMO_HYD_01,Zoo Park,Hyderabad,Telangana,17.402569,78.485701,27.61,78.5,0.0,1008.6,45.18,2.6,25.2,3.18,synthetic_demo
+2025-03-31T23:00:00+05:30,DEMO_CHE_01,Velachery,Chennai,Tamil Nadu,13.074133,80.263657,30.41,60.79,0.0,1006.83,55.08,3.1,45.0,3.91,synthetic_demo
+2025-03-31T23:00:00+05:30,DEMO_CHE_02,Manali,Chennai,Tamil Nadu,13.093346,80.278009,29.32,69.14,0.199,1012.59,66.31,1.16,256.3,1.75,synthetic_demo
+2025-03-31T23:00:00+05:30,DEMO_CHE_03,Perungudi,Chennai,Tamil Nadu,13.090955,80.279316,27.02,68.59,0.0,1007.89,51.64,2.77,352.2,3.87,synthetic_demo
+2025-03-31T23:00:00+05:30,DEMO_BEN_01,Bapuji Nagar,Bengaluru,Karnataka,13.014433,77.586472,27.59,74.17,0.0,1008.38,67.5,8.22,62.0,11.47,synthetic_demo
+2025-03-31T23:00:00+05:30,DEMO_BEN_02,Silk Board,Bengaluru,Karnataka,12.961355,77.578325,27.06,63.36,0.0,1010.2,36.09,4.31,91.6,4.79,synthetic_demo
+2025-03-31T23:00:00+05:30,DEMO_BEN_03,Hebbal,Bengaluru,Karnataka,12.98392,77.617179,25.35,72.54,0.0,1007.94,80.44,3.9,205.5,5.59,synthetic_demo
+2025-03-31T23:00:00+05:30,DEMO_KOL_01,Victoria,Kolkata,West Bengal,22.570321,88.347097,26.33,66.16,0.0,1006.04,55.96,2.31,146.5,3.93,synthetic_demo
+2025-03-31T23:00:00+05:30,DEMO_KOL_02,Ballygunge,Kolkata,West Bengal,22.55611,88.376912,26.65,74.87,0.0,1006.88,66.68,0.18,9.5,0.31,synthetic_demo
+2025-03-31T23:00:00+05:30,DEMO_KOL_03,Rabindra Sarobar,Kolkata,West Bengal,22.587465,88.374763,26.99,73.71,0.0,1011.56,59.86,2.58,26.7,4.45,synthetic_demo
+2025-03-31T23:00:00+05:30,DEMO_HYD_02,Central University,Hyderabad,Telangana,17.381303,78.473081,28.11,73.87,0.0,1009.48,68.23,0.51,182.0,0.91,synthetic_demo
+2025-03-31T23:00:00+05:30,DEMO_JAI_03,Police Commissionerate,Jaipur,Rajasthan,26.929829,75.791772,26.8,65.59,0.0,1007.13,70.99,0.76,33.2,1.29,synthetic_demo
